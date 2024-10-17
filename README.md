@@ -1,11 +1,16 @@
 <h1 align="center"> Programa de aerolinea argentina para gestionar la ocupacion de los asientos de sus vuelos </h1>
 <p align="center"> <img src="https://img.shields.io/badge/status-En%20desarrollo-yellowgreen"> <img src="https://img.shields.io/badge/release_date-October-green"> </p>
 
+
 El proyecto ayuda a gestionar al usuario, la creacion del vuelo seleccionado el destino al que desea ir, pudiendo elegir asi reservar un asiento, mostrar el estado actual del vuelo, mostrar la cantidad de asientos disponibles y buscar si algun asiento en particular esta ocupado.
+
 
 <h1 align="center"> ✔️ Tecnologías utilizadas </h1>
 
-### `C#`
+- `Lenguaje de programación:` C#
+- `Entorno de Desarrollo (IDE):` Visual Studio 2022
+- `Control de versiones:` Git
+- `Plataforma de repositorios:` GitHub
 
 ## 🔨Funcionalidades del proyecto
 - `Funcionalidad 1`: Permite crear un vuelo desde cero, dejando al usuario elegir entre los diferentes destinos disponibles.
