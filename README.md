@@ -1,6 +1,6 @@
 # <h1 align="center"> Programa de Aerolíneas Argentinas para la Gestión de Asientos de Vuelos </h1>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/status-En%20desarrollo-yellowgreen">
+  <img src="https://img.shields.io/badge/status-%20Finalized-green">
   <img src="https://img.shields.io/badge/release_date-October-green"> 
 </p>
 
