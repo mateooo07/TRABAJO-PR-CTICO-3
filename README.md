@@ -68,8 +68,9 @@ Sigue estos pasos para utilizar el programa:
   
 ## *Autores*
 
-| [<img src="https://avatars.githubusercontent.com/u/156868155?v=4" width=115><br><sub>Santiago Nietto</sub>](https://github.com/santiagonietto) |  [<img src="https://avatars.githubusercontent.com/u/169093886?v=4" width=115><br><sub>Mateo Pavoni</sub>](https://github.com/mateooo07) 
-| :---: | :---: | 
+| [<img src="https://avatars.githubusercontent.com/u/156868155?v=4" width=115><br><sub>Santiago Nietto</sub>](https://github.com/santiagonietto) |  [<img src="https://avatars.githubusercontent.com/u/169093886?v=4" width=115><br><sub>Mateo Pavoni</sub>](https://github.com/mateooo07) |  [<img src="https://avatars.githubusercontent.com/u/167208412?v=4" width=115><br><sub>Joel Galera</sub>](https://github.com/1Joee) |
+| :---: | :---: | :---: |
+
 
 ## 🔥 *Contribución*
 Las contribuciones son bienvenidas. Para contribuir, sigue estos pasos: 
