@@ -1,7 +1,7 @@
 # <h1 align="center"> Programa de aerolinea argentina para gestionar la ocupacion de los asientos de sus vuelos </h1>
 <p align="center"> <img src="https://img.shields.io/badge/status-En%20desarrollo-yellowgreen"> <img src="https://img.shields.io/badge/release_date-October-green"> </p>
 
-El proyecto ayuda a gestionar al usuario, la creacion del vuelo seleccionado el destino al que desea ir, pudiendo elegir asi reservar un asiento, mostrar el estado actual del vuelo, mostrar la cantidad de asientos disponibles y buscar si algun asiento en particular esta ocupado.
+El proyecto ayuda a gestionar al usuario, la creacion del vuelo seleccionado el destino al que desea ir, pudiendo elegir así reservar un asiento, cancelar una reserva, mostrar el estado actual del vuelo, mostrar la cantidad de asientos disponibles y buscar si algun asiento en particular esta ocupado, y al terminar le permite salir sin problema del sistema.
 
 ## 📚 Tabla de Contenidos
 1. [Tecnologías utilizadas](#-tecnologías-utilizadas)
