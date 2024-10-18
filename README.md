@@ -8,7 +8,7 @@ Este proyecto permite gestionar la ocupación de los asientos de los vuelos de A
 
 
 ## 📚 Tabla de Contenidos
-1. [Tecnologías utilizadas](#-tecnologías-utilizadas)
+1. [Tecnologías utilizadas](#%EF%B8%8F-tecnologías-utilizadas)
 2. [Instalación](#-instalación)
 3. [Uso](#-uso)
 4. [Funcionalidades del proyecto](#-funcionalidades-del-proyecto)
