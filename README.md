@@ -15,9 +15,9 @@ El proyecto ayuda a gestionar al usuario, la creacion del vuelo seleccionado el 
 - `Funcionalidad 1`: Permite crear un vuelo desde cero, dejando al usuario elegir entre los diferentes destinos disponibles.
 - `Funcionalidad 2`: Permite al usuario reservar un asientos de los disponibles en el vuelo.
 - `Funcionalidad 3`: Muestra al usuario una tabla del estado actual del vuelo, con los asientos reserverdos marcados en rojo, y los asientos disponibles marcados en verde.
+ ![20241017_002422](https://github.com/user-attachments/assets/f06d7336-6cc6-41c1-b307-ec71a89c520a)
 - `Funcionalidad 4`: Muestra el numero de asientos disponibles y el numero de asientos ocupados.
 - `Funcionalidad 5`: Busca un asiento en particular y muestra si esta disponible.
-- ![20241017_002422](https://github.com/user-attachments/assets/f06d7336-6cc6-41c1-b307-ec71a89c520a)
 
 ## Autores y contribuidores 
 
