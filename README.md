@@ -1,7 +1,11 @@
-# <h1 align="center"> Programa de aerolinea argentina para gestionar la ocupacion de los asientos de sus vuelos </h1>
-<p align="center"> <img src="https://img.shields.io/badge/status-En%20desarrollo-yellowgreen"> <img src="https://img.shields.io/badge/release_date-October-green"> </p>
+# <h1 align="center"> Programa de Aerolíneas Argentinas para la Gestión de Asientos de Vuelos </h1>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/status-En%20desarrollo-yellowgreen">
+  <img src="https://img.shields.io/badge/release_date-October-green"> 
+</p>
 
-El proyecto ayuda a gestionar al usuario, la creacion del vuelo seleccionado el destino al que desea ir, pudiendo elegir así reservar un asiento, cancelar una reserva, mostrar el estado actual del vuelo, mostrar la cantidad de asientos disponibles y buscar si algun asiento en particular esta ocupado, y al terminar le permite salir sin problema del sistema.
+Este proyecto permite gestionar la ocupación de los asientos de los vuelos de Aerolíneas Argentinas. Los usuarios pueden crear un vuelo seleccionando el destino, reservar asientos, cancelar reservas, verificar el estado actual de la ocupación, buscar si un asiento está ocupado, y consultar la cantidad de asientos disponibles. Al finalizar, el sistema permite al usuario salir sin problemas.
+
 
 ## 📚 Tabla de Contenidos
 1. [Tecnologías utilizadas](#-tecnologías-utilizadas)
@@ -26,39 +30,40 @@ El proyecto ayuda a gestionar al usuario, la creacion del vuelo seleccionado el 
 2. Abre el proyecto en Visual Studio 2022.
 3. Compila y ejecuta.
 
-## 📌 *Uso*
+## 📌 Uso
 Sigue estos pasos para utilizar el programa:
 
-1. **Seleccionar destino**: 
-   - `Elige el destino al que deseas viajar desde una lista de destinos disponibles.`
-   
-2. **Reservar un asiento**:
-   - `Selecciona un asiento disponible en el vuelo escribiendo su número de "fila" y "columna" para reservarlo.`
-     
-3. **Cancelar una reserva**:
-   - `Selecciona un asiento reservado en el vuelo escribiendo su número de "fila" y "columna" para cancelar su reserva.`
+1. **Seleccionar Destino**:  
+   Elige el destino al que deseas viajar de una lista de destinos disponibles.
 
-4. **Ver estado del vuelo**:
-   - `Consulta una tabla que muestra el estado actual del vuelo. Los asientos ocupados aparecen en rojo y los disponibles en verde.`
+2. **Reservar un Asiento**:  
+   Selecciona un asiento disponible en el vuelo introduciendo el número de "fila" y "columna".
 
-5. **Consultar asientos**:
-   - `Visualiza la cantidad total de asientos ocupados y disponibles en el vuelo.`
+3. **Cancelar una Reserva**:  
+   Introduce el número de "fila" y "columna" de un asiento previamente reservado para cancelar la reserva.
 
-6. **Buscar un asiento**:
-   - `Ingresa el número de un asiento específico para verificar si está ocupado o disponible.`
-     
-7. **Salir del sistema**:
-   - `Sale del sistema.`
+4. **Ver Estado del Vuelo**:  
+   Consulta una tabla que muestra los asientos ocupados (en rojo) y disponibles (en verde).
+
+5. **Consultar Asientos Disponibles**:  
+   Muestra el número de asientos ocupados y disponibles en el vuelo.
+
+6. **Buscar un Asiento Específico**:  
+   Ingresa el número de asiento para verificar si está ocupado o disponible.
+
+7. **Salir del Sistema**:  
+   Cierra la sesión y sale del sistema.
+
 
 ## 🔨 *Funcionalidades del proyecto*
 
 - `Funcionalidad 1`: Permite crear un vuelo desde cero, dejando al usuario elegir entre los diferentes destinos disponibles.
 - `Funcionalidad 2`: Permite al usuario reservar un asientos de los disponibles en el vuelo.
-- `Funcionalidad 3`: Permite al usuario cancelar una reserva de un asiento en el vuelo.
+- `Funcionalidad 3`: Permite al usuario cancelar una reserva de asiento previamente realizada.
 - `Funcionalidad 4`: Permite al usuario conocer mediante una tabla el estado actual del vuelo, con los asientos reserverdos marcados en rojo, y los asientos disponibles marcados en verde.
  ![20241017_002422](https://github.com/user-attachments/assets/f06d7336-6cc6-41c1-b307-ec71a89c520a)
-- `Funcionalidad 5`: Permite al usuario conocer el número de asientos disponibles y el numero de asientos ocupados.
-- `Funcionalidad 6`: Permite al usuario buscar un asiento en particular y muestra si esta disponible.
+- `Funcionalidad 5`: Permite al usuario conocer el número de asientos disponibles y el número de asientos ocupados.
+- `Funcionalidad 6`: Permite al usuario verificar si un asiento en particular esta ocupado o no.
 - `Funcionalidad 7`: Permite al usuario salir del sistema luego de haber hecho o no su reserva.
   
 ## *Autores*
