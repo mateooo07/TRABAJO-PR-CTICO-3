@@ -274,7 +274,6 @@ class TrabajoPractico3
                         asientoReservado = false;
                         opcionVuelo = 0;
                         contadorAsientos = 0;
-                        FuncionCrearVuelo();
                     }
                 }
                 else
