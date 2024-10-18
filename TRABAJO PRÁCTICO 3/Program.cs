@@ -2,10 +2,11 @@
 using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Threading;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 class TrabajoPractico3
 {
-    static int[][] asientos = FuncionCrearVuelo();
+    static int[][] asientos; 
 
     static bool vueloCreado = false;
     static bool asientoReservado = false;
@@ -246,7 +247,7 @@ class TrabajoPractico3
                             break;
                     }
                 }
-                FuncionCrearVuelo();
+                asientos = FuncionCrearVuelo();
 
                 vueloCreado = true;
 
@@ -273,6 +274,7 @@ class TrabajoPractico3
                         asientoReservado = false;
                         opcionVuelo = 0;
                         contadorAsientos = 0;
+                        FuncionCrearVuelo();
                     }
                 }
                 else
